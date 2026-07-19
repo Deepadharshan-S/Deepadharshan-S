@@ -1,59 +1,114 @@
-# 👋 Hey there! I'm Deepadharshan S  
+# Hi there, I'm Deepadharshan S 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C3FFduration=2000&pause=1000&lines=Welcome+to+my+GitHub!;I+love+coding+and+building+things!;Exploring+new+tech+every+day!;Let's+connect!)
-
-## 🚀 About Me  
-- 💻 Passionate about **coding**, **security**, and **AI**  
-- 🎯 Always working on **exciting projects**  
-- 📖 Learning something **new every day**  
-- 🔍 Exploring **network security**, **AI**, and **mobile development**  
-
----
-
-## 🛠 Tech Stack  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,c,git,linux,vscode,flutter" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C3FF&center=true&vCenter=true&width=850&lines=Backend+Developer;Cybersecurity+Enthusiast;AI+%26+MLOps+Explorer;Cloud+Native+Learner;Always+Building+Something+New)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
-## 📊 GitHub Stats  
+## 🚀 About Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepadharshan-S&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepadharshan-S&layout=compact&theme=radical" alt="Top Languages" />
-</div>  
+I'm a Cyber Security student with a passion for building reliable software and exploring modern technologies.
 
----
+I enjoy designing backend applications, learning cloud-native technologies, and exploring the intersection of artificial intelligence and cybersecurity. I'm always eager to learn, build, and collaborate on meaningful projects.
 
-
-## 🌟 Fun Fact  
-🚀 *Code today, debug tomorrow!*  
-📚 *The only way to learn is by doing!*  
-💡 *Debugging is like being the detective in a crime movie where you are also the murderer!*  
+- 💻 Passionate about Software Development
+- 🔒 Interested in Cybersecurity & AI Security
+- 🤖 Exploring Artificial Intelligence & MLOps
+- ☁️ Learning Cloud Computing & DevOps
+- 🌱 Always learning new technologies
 
 ---
 
-### **🔥 Fun Joke**  
+## 🛠️ Tech Stack
+
+### Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,bash" />
+</p>
+
+### Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask" />
+</p>
+
+### DevOps & Cloud
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github" />
+</p>
+
+### Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+</p>
+
+### Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,postman" />
+</p>
+
+---
+
+## 🌱 Currently Exploring
+
+- Machine Learning
+- MLOps
+- Cloud Native Technologies
+- Distributed Systems
+- DevSecOps
+- Identity & Access Management
+- Open Source
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Random Joke" />
+
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=Deepadharshan-S&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Deepadharshan-S&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Deepadharshan-S&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepadharshan-S&theme=tokyo-night&hide_border=true"/>
+
 </div>
 
 ---
+## 🤝 Connect With Me
 
-### 🤝 Let's Connect  
 <div align="center">
-  <a href="https://linkedin.com/in/deepadharshan-s">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Deepadharshan-S">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:deepadharshan251@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
+<a href="https://www.linkedin.com/deepadharshan-s" rel="nofollow noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+</a> &nbsp;
+
+<a href="mailto:deepadharshan251@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Deepadharshan-S">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
